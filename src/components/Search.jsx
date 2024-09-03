@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Styles from "./Search.module.css"
+import Styles from "./search.module.css"
 import PropTypes from 'prop-types'
 
 //url for the api

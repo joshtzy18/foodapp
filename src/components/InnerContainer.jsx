@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'
-import Styles from './InnerContainer.module.css'
+import Styles from './innerContainer.module.css'
 function InnerContainer({children}) {
   return (
     <div className={Styles.innerContainer}>{children}</div>
