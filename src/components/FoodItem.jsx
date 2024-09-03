@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'
-import Styles from './foodItem.module.css'
+import Styles from './fooditem.module.css'
 function FoodItem({food, setFoodId}) {
   return (
     <div className={Styles.itemContainer}>
