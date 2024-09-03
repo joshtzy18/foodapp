@@ -1,4 +1,4 @@
-import Styles from "./Nav.module.css"
+import Styles from "./nav.module.css"
 function Nav() {
   return (
     <div className={Styles.nav}> 🍔FoodApp</div>
